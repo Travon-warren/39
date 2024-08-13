@@ -1,5 +1,3 @@
-print("Hello World")
+print('Hi, my name is Travon Martin!')
 
-print(False)
-
-int(37)
+print('i love to edit and play with my friends')
